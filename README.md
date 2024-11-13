@@ -1,3 +1,4 @@
+CS2 Crosshair Customizer 🎯
 Features
 
 Customization: Adjust color, size, thickness, gap.
